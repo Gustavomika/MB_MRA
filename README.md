@@ -11,6 +11,14 @@ Links to data specified on the scripts:
 * [GSE85217](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE85217)
 * [GSE167447](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE167447)
 
+Also please download the Affymetrix Human Gene 1.1 ST Array [transcript (gene) version] annotation table and extract at:
+
+"./Dados/Brutos/AnotacoesPlataforma/GPL11532-32230.txt"
+
+Link to annotation table download (scroll down and click on "Download full table..."): 
+
+* [Table](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GPL11532)
+
 For package installing, there is two sources: The Comprehensive R Archive Network - [CRAN](https://cran.r-project.org/) - and [Bioconductor](https://bioconductor.org). To install CRAN packages, on the R console, just type:
 
 ```{r}
