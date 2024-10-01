@@ -1,6 +1,6 @@
 # Medulloblastoma Master Regulator Analysis using RTN R/Bioconductor package.
 
-This repository contains the scripts used to infer the medulloblastoma (MB) regulatory network and identification of master regulator for MB (subgroups SHH, group 3, group 4) and risk master regulators. Briefly, the network was infered using GSE85217 MB samples. Gene signitures were identified comparing a subset of GSE85217 tumor samples against GSE167447 healthy fetal cerebellum samples. Than, the MB network and gene signatures were used to identify the master regulator. Clinical data were used o identify we used risk master regulators. 
+This repository contains the scripts used to infer the medulloblastoma (MB) regulatory network and identification of master regulators for MB (subgroups SHH, group 3 and group 4) and risk master regulators. Briefly, the network was infered using GSE85217 MB samples. Gene signitures were identify comparing a subset of GSE85217 tumor samples against GSE167447 healthy fetal cerebellum samples. Afterward, the MB network and gene signatures were used to identify the master regulators. GSE85217 survival data were used to identify risk master regulators. 
 
 Flowchart with the scripts execution order.
 
